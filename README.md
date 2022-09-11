@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shikhars
+- 👋 Hi, I’m Shikhar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on css projects
 
 <!---
