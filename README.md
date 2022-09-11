@@ -1,6 +1,6 @@
-👋 Hi, I’m Shikhar
-👀 I’m interested in web development
-💞️ I’m looking to collaborate on css projects
+- 👋 Hi, I’m Shikhar
+- 👀 I’m interested in web development
+- 💞️ I’m looking to collaborate on CSS projects
 
 <!---
 shikhars/shikhars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
