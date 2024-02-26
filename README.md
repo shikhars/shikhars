@@ -2,9 +2,9 @@
 
 👨‍💻 I specialize in creating dynamic, scalable web applications using Django. 🌐
 
-🔧 Skilled in crafting beautiful, responsive designs with SASS, ensuring users get the best experience across all devices.
+🛠️ Passionate about building and sharing free, open-source tools. 
 
-🔗 Adept in developing robust APIs with Django Rest Framework, I love connecting the dots between frontend and backend, making data flow seamlessly.
+🔗 Adept in developing robust APIs with Django Rest Framework.
 
 🚀 On a mission to build privacy-first technologies, I explore the intersections of AI, crypto, and data science to bring innovative solutions to life.
 
