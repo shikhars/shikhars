@@ -1,16 +1,16 @@
 👋 Hi, I’m Shikhar.
 
-👨‍💻 I specialize in creating dynamic, scalable web applications using Django. 🌐
+👨‍💻 I love Django. 🌐
 
-🛠️ Passionate about building and sharing free, open-source tools. 
+🛠️ I am passionate about building and sharing free, open-source tools. 
 
-🔗 Adept in developing robust APIs with Django Rest Framework.
+🔗 I can build robust APIs with Django Rest Framework.
 
-🚀 On a mission to build privacy-first technologies, I explore the intersections of AI, crypto, and data science to bring innovative solutions to life.
+🚀 I have a keen interest in building privacy-first technologies.
 
-📚 Whether through detailed blog posts or code contributions, I'm all about sharing knowledge and helping others harness the power of technology.
+📚 I am also a part-time satirist and poet.
 
-Let's collaborate and create something amazing! 💡
+Hit me up if you would like to collaborate on a Python, Django, Sass project.💡
 
 <!---
 shikhars/shikhars is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
